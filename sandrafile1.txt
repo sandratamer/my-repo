@@ -1,4 +1,5 @@
-# my-repo
+Master and mentee
 How do you change this file? Oh, that's how
 Now name my change
 and yet another change!
+Mentee is a mentored by the Master
